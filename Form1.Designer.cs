@@ -161,7 +161,7 @@ namespace easy2kicadtool
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
-            this.Text = "EasyEda2KiCad Tool";
+            this.Text = "EasyEda2KiCad Tool - databyte.ch";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Shown += new System.EventHandler(this.Form1_Shown);
             this.ResumeLayout(false);

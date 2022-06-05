@@ -629,10 +629,9 @@
   </data>
   <data name="button3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAABiSURBVDhP7ZBRDoAgDEPr/U/AnbhTtRDNnJMM+bXJA7KtTRg2YIl+ABzhTRYpNHkis5DaAFnI
-        etyGWiYDZPCc/cgspGvoI2Fxhv5oO0hiv3YPcEt84w8YBKiR5RGwQFhMAu7u/od+yOY3IQAAAABJRU5E
-        rkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAGJJREFUOE/t
+        kFEOgCAMQ+v9T8CduFO1EM2ckwz5tckDsq1NGDZgiX4AHOFNFik0eSKzkNoAWch63IZaJgNk8Jz9yCyk
+        a+gjYXGG/mg7SGK/dg9wS3zjDxgEqJHlEbBAWEwC7u7+h37I5jchAAAAAElFTkSuQmCC
 </value>
   </data>
   <metadata name="folderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
