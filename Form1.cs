@@ -105,11 +105,13 @@ namespace easy2kicadtool
         private void checkForTool()
         {
 
-            if(new System.IO.FileInfo("eda2kicad.exe").Length < 1000)
+            if (File.Exists("eda2kicad.exe") == true)
             {
-                File.Delete("eda2kicad.exe");
+                if (new System.IO.FileInfo("eda2kicad.exe").Length < 1000)
+                {
+                    File.Delete("eda2kicad.exe");
+                }
             }
-
 
             if (File.Exists("eda2kicad.exe") == false)
             {

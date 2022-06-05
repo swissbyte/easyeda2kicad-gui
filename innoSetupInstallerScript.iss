@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "EasyEda2KiCad"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "databyte.ch"
 #define MyAppURL "https://databyte.ch"
 #define MyAppExeName "easy2kicadtool.exe"
